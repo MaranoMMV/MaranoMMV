@@ -22,33 +22,26 @@
 <div style="displays: inline_block">
 
 
-### Main skills:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java8&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+  ### Main skills:
+  ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java8&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![HTML](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 
-### Tools:
-![PowerBI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=PowerBI&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![ActiveDirectory](https://img.shields.io/badge/-ActiveDirectory-0D1117?style=for-the-badge&logo=ActiveDirectory&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+  ### Tools:
+  ![PowerBI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=PowerBI&labelColor=0D1117)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+  ![ActiveDirectory](https://img.shields.io/badge/-ActiveDirectory-0D1117?style=for-the-badge&logo=ActiveDirectory&labelColor=0D1117)&nbsp;
+  ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+  ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-### Other Knowledge:
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117)&nbsp;
+  ### Other Knowledge:
+  ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
-  
+  ### Studying in this moment:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117)&nbsp;
+
 </div><br/>
-
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MaranoMMV}/count.svg" /></p> 
-<br></div>
-  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000f&height=120&section=footer"/>****
