@@ -15,7 +15,6 @@
 ## About Me
 - 🔭 Currently working as an IT Assistant
 - 📫 How to reach me: matheus.marano@outlook.com || :telephone_receiver: +55 (11) 96838-1616
-- 🌱 I’m currently learning Java, Spring Boot, CSS and JavaScript.
 - 💬 Ask me about anything about you
 - :desktop_computer: More than 2 years working with IT
 
