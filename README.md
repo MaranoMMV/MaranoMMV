@@ -35,6 +35,8 @@
 
   ### Other Knowledge:
   ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+  ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=phpl&labelColor=0D1117)&nbsp;
+   ![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angularl&labelColor=0D1117)&nbsp;
 
   ### Studying in this moment:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
