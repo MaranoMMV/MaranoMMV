@@ -24,6 +24,9 @@
   ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java8&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![HTML](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+  ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117)&nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&labelColor=0D1117)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117)&nbsp;
 
   ### Tools:
   ![PowerBI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=PowerBI&labelColor=0D1117)&nbsp;
@@ -36,10 +39,11 @@
   ### Other Knowledge:
   ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
   ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=phpl&labelColor=0D1117)&nbsp;
-   ![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angularl&labelColor=0D1117)&nbsp;
 
   ### Studying in this moment:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&labelColor=0D1117)&nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117)&nbsp;
+
 
 </div><br/>
