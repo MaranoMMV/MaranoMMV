@@ -139,6 +139,24 @@ export class CertificatesComponent implements OnInit {
         },
       ],
     },
+    {
+      nome: 'Gestão de infraestrutura de TI',
+      empresa: 'FIAP',
+      dataEmissao: '09 de maio de 2024',
+      descricao: '',
+      codigoCredencial: '189eec19b98c9f5650e1f7193e3d4fd8',
+      urlDaCredencial: '',
+      src1: 'assets/img/certificados/gestaoinfrati.png',
+      alt1: 'Certificado de conclusão Gestão de infraestrutura de TI" ',
+      src2: 'assets/img/certificados/gestaoinfrati.png',
+      alt2: 'Certificado de conclusão curso de Gestão de infraestrutura de TI" ',
+      links: [
+        {
+          name: 'Certificado',
+          href: 'https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/113929/189eec19b98c9f5650e1f7193e3d4fd8/certificado.png',
+        },
+      ],
+    },
   ]
 
   public openDialog(data: ICertificate) {
@@ -148,5 +166,5 @@ export class CertificatesComponent implements OnInit {
     });
   }
 
-  displayedColumns: string[] = ['nome', 'empresa', 'dataEmissao', 'visualizar'];
+  displayedColumns: string[] = ['nome', 'empresa', 'visualizar'];
 }

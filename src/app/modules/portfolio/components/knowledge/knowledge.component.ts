@@ -55,7 +55,7 @@ export class KnowledgeComponent {
       matTooltipp: 'Spring'
     },
     {
-      src: 'assets/icons/knowledge/linux.wbm',
+      src: 'assets/icons/knowledge/linux.png',
       alt: 'Ícone de conhecimento de Linux',
       matTooltipp: 'Linux'
     },

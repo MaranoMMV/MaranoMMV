@@ -15,7 +15,7 @@ export class MagazineComponent implements OnInit{
   dataSourceMagazine!: MatTableDataSource<IMagazine>;
 
 
-  displayedColumns: string[] = ['nome', 'publicadora', 'nomeProjeto', 'visualizar'];
+  displayedColumns: string[] = ['nome', 'publicadora', 'visualizar'];
   ngOnInit(): void {
     this.dataSourceMagazine = new MatTableDataSource(this.arraymagazine);
   }
