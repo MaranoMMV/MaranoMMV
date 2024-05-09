@@ -1,0 +1,20 @@
+<div class="container">
+    <h2>Reconhecimento</h2>
+  
+    <ul>
+      @for(item of arrayAwards(); track item){
+      <li>
+        <button (click)="openDialog(item)">
+          <img
+            [src]="item.src1"
+            [alt]="item.alt1"
+            width="230px"
+            height="100px"
+            loading="lazy"
+          />
+        </button>
+      </li>
+      }
+    </ul>
+  </div>
+  

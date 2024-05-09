@@ -1,0 +1,17 @@
+<div class="container">
+    <h2>Idiomas</h2>
+  
+    <table mat-table [dataSource]="dataSourceIdioma" class="mat-elevation-z8">
+      <ng-container matColumnDef="idioma">
+        <th mat-header-cell *matHeaderCellDef> Idioma </th>
+        <td mat-cell *matCellDef="let idioma"> {{idioma.idioma}} </td>
+      </ng-container>
+      <ng-container matColumnDef="nivel">
+        <th mat-header-cell *matHeaderCellDef> Nivel </th>
+        <td mat-cell *matCellDef="let idioma"> {{idioma.nivel}} </td>
+      </ng-container>
+  
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+  </div>
