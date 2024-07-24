@@ -1,0 +1,26 @@
+<app-header />
+
+<main>
+  <app-knowledge />
+
+
+
+  @defer(on viewport){
+    <app-awards></app-awards>
+    <app-certificates />
+    <app-experiences />
+
+    <app-magazine />
+
+
+  <app-projects />
+  } @placeholder {
+  <section>
+    <h2>Carregando...</h2>
+  </section>
+  } @error {
+  <section>
+    <h2>Ocorreu um erro no download do componente, tente novamente...</h2>
+  </section>
+  }
+</main>

@@ -1,0 +1,27 @@
+<header>
+    <h2 mat-dialog-title>{{ getData()?.nome }}</h2>
+  
+    <button (click)="closeModal()">
+      <img src="assets/icons/dialog/close.svg" alt="Botão para fechar o dialog" />
+    </button>
+  </header>
+  
+  <mat-dialog-content>
+    <h3>Descrição</h3>
+  
+    <article [innerHTML]="getData()?.empresa"> </article>
+    <article [innerHTML]="getData()?.descricao"></article>
+    <article [innerHTML]="getData()?.dataEmissao"></article>
+    <article [innerHTML]="getData()?.descricao"></article>
+    <article [innerHTML]="getData()?.codigoCredencial"></article>
+    <div class="centralizandoImagem">
+        <img [src]="getData()?.src2" [alt]="getData()?.alt2" width="50%">
+    </div>
+    <nav>
+      @for(item of getData()?.links; track item){
+      <a [href]="item.href" target="_blank" class="btn btn-primary">
+        {{ item.name }}
+      </a>
+      }
+    </nav>
+  </mat-dialog-content>
